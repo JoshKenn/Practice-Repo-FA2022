@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Josh Kennedy
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Intro to Business Finance
 
-- Course 3
+- Principals of microeconomics
 
-- Course 4
+- Entreprenural opprotunity analysis
+
+- FLAME
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Golf
 
-- Thing 2
+- Friends
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- School
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
